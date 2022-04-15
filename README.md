@@ -10,6 +10,9 @@
 <p align="center">
  O jogo tem como alcançar a maior distancia possivel sem o dinossauro bater nos obstáculos.
  Usando comecimentos simples sobre logica em javascript e possivel fazer o dinassauro pular evitando os obstaculos.
+	
+![image](https://user-images.githubusercontent.com/62728106/163602709-f1175442-25d2-4e25-803c-2ad21d9d4d75.png)
+
 </p>
 
 <h4 align="center"> 
